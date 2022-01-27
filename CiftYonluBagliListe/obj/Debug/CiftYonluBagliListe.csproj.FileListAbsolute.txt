@@ -1,0 +1,7 @@
+C:\Users\Omer\source\repos\CiftYonluBagliListe\CiftYonluBagliListe\bin\Debug\CiftYonluBagliListe.exe.config
+C:\Users\Omer\source\repos\CiftYonluBagliListe\CiftYonluBagliListe\bin\Debug\CiftYonluBagliListe.exe
+C:\Users\Omer\source\repos\CiftYonluBagliListe\CiftYonluBagliListe\bin\Debug\CiftYonluBagliListe.pdb
+C:\Users\Omer\source\repos\CiftYonluBagliListe\CiftYonluBagliListe\obj\Debug\CiftYonluBagliListe.csproj.AssemblyReference.cache
+C:\Users\Omer\source\repos\CiftYonluBagliListe\CiftYonluBagliListe\obj\Debug\CiftYonluBagliListe.csproj.CoreCompileInputs.cache
+C:\Users\Omer\source\repos\CiftYonluBagliListe\CiftYonluBagliListe\obj\Debug\CiftYonluBagliListe.exe
+C:\Users\Omer\source\repos\CiftYonluBagliListe\CiftYonluBagliListe\obj\Debug\CiftYonluBagliListe.pdb
